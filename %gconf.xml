@@ -15,8 +15,8 @@
 	<entry name="word_chars" mtime="1364166597" type="string">
 		<stringvalue>-A-Za-z0-9,./?%&amp;#:_=+@~</stringvalue>
 	</entry>
-	<entry name="palette" mtime="1364176427" type="string">
-		<stringvalue>#227722882222:#B035754B3B42:#4499448833EE:#999899987D7C:#AA5599FF8855:#CCCCCCCCCCCC:#EDEDEDEDEDED:#FF99FF88FF55:#BEBE66665A5A:#FFFF22217777:#BBBABBBA5958:#FEFECCCC7777:#7777C3C2E3E2:#B2B19190DDDD:#9897DDDDDCDC:#BF716CA81DEA</stringvalue>
+	<entry name="palette" mtime="1364179728" type="string">
+		<stringvalue>#227722882222:#B0AF75743B3B:#4499448833EE:#999899987D7C:#AA5599FF8855:#CCCCCCCCCCCC:#EDEDEDEDEDED:#FF99FF88FF55:#78D933912A1E:#FFFF22217777:#BBBABBBA5958:#FEFECCCC7777:#7777C3C2E3E2:#B2B19190DDDD:#9897DDDDDCDC:#DC9CAB3D833D</stringvalue>
 	</entry>
 	<entry name="default_size_rows" mtime="1364166597" type="int" value="24"/>
 	<entry name="title" mtime="1364166597" type="string">

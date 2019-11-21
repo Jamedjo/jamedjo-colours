@@ -1,0 +1,34 @@
+[/]
+list=['b1dcc9dd-5262-4d8d-a863-c897e6d979b9', '9e9ef591-63b0-465f-8990-fee1b4b7aeb9', 'beac1c1d-d58f-4caa-9fe5-b071d9ce04c3', 'bf7b4fae-4c6c-4ec8-9257-ccaa6667ed53']
+
+[:9e9ef591-63b0-465f-8990-fee1b4b7aeb9]
+background-color='rgb(0,43,54)'
+foreground-color='rgb(131,148,150)'
+use-theme-colors=false
+visible-name='solarized'
+
+[:beac1c1d-d58f-4caa-9fe5-b071d9ce04c3]
+background-color='rgb(18,18,34)'
+bold-color='rgb(248,248,242)'
+bold-color-same-as-fg=false
+bold-is-bright=true
+foreground-color='rgb(248,248,242)'
+palette=['rgb(35,35,34)', 'rgb(69,69,52)', 'rgb(171,160,135)', 'rgb(239,239,239)', 'rgb(177,118,59)', 'rgb(160,160,126)', 'rgb(205,205,205)', 'rgb(255,255,255)', 'rgb(120,51,42)', 'rgb(255,34,119)', 'rgb(187,187,89)', 'rgb(255,205,120)', 'rgb(119,195,227)', 'rgb(179,146,222)', 'rgb(153,222,221)', 'rgb(221,171,131)']
+use-theme-colors=false
+visible-name='Jamedjo 2013'
+
+[:bf7b4fae-4c6c-4ec8-9257-ccaa6667ed53]
+background-color='rgb(24,24,24)'
+background-transparency-percent=5
+bold-color='rgb(248,248,242)'
+bold-color-same-as-fg=false
+bold-is-bright=true
+cursor-background-color='rgb(24,24,24)'
+cursor-colors-set=true
+cursor-foreground-color='rgb(139,139,139)'
+foreground-color='rgb(248,248,242)'
+palette=['rgb(35,35,34)', 'rgb(175,116,58)', 'rgb(69,69,52)', 'rgb(160,160,126)', 'rgb(171,160,135)', 'rgb(205,205,205)', 'rgb(239,239,239)', 'rgb(255,255,255)', 'rgb(120,51,42)', 'rgb(255,34,119)', 'rgb(187,187,89)', 'rgb(254,205,120)', 'rgb(119,195,227)', 'rgb(179,146,222)', 'rgb(153,222,221)', 'rgb(221,171,131)']
+use-theme-colors=false
+use-theme-transparency=false
+use-transparent-background=true
+visible-name='Jamedjo 2019'
